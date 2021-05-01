@@ -1,0 +1,16 @@
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.csprojAssemblyReference.cache
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.AssemblyInfo.cs
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.exe
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.deps.json
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.runtimeconfig.json
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.runtimeconfig.dev.json
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.dll
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\ref\Puzzles.dll
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\bin\Debug\net5.0\Puzzles.pdb
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.dll
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\ref\Puzzles.dll
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.pdb
+C:\Users\Jarryd\Documents\Dev\c-sharp-puzzles\obj\Debug\net5.0\Puzzles.genruntimeconfig.cache
