@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace FloydsTriangle
 {
@@ -6,19 +7,23 @@ namespace FloydsTriangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            createFloyds(10);
         }
 
+        // function that writes a floyds triangle of height [height] to the console
         static void createFloyds(int height)
         {
             int curr = 1;
-            for (int lvl = 1; lvl <= height; lvl++)
+
+            for (int row = 1; row <= height; row++)
             {
-                string numLine = "";
-                while (numLine.Length <= lvl)
+                List<int> numLine = new List<int>();
+                for (int col = 0; col < row; col++)
                 {
-                    numLine += String.
+                    numLine.Add(curr);
+                    curr++;
                 }
+                Console.WriteLine(string.Join(", ", numLine));
             }
         }
     }

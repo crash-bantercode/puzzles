@@ -1,0 +1,16 @@
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.exe
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.deps.json
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.runtimeconfig.json
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.runtimeconfig.dev.json
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.dll
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\ref\FloydsTriangle.dll
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\bin\Debug\net5.0\FloydsTriangle.pdb
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.csprojAssemblyReference.cache
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.AssemblyInfoInputs.cache
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.AssemblyInfo.cs
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.csproj.CoreCompileInputs.cache
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.dll
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\ref\FloydsTriangle.dll
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.pdb
+D:\Dev\puzzles\c-sharp-puzzles\floydsTri\obj\Debug\net5.0\FloydsTriangle.genruntimeconfig.cache

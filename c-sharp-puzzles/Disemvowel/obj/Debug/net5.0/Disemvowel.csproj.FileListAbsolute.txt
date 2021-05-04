@@ -1,0 +1,16 @@
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.exe
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.deps.json
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.runtimeconfig.json
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.runtimeconfig.dev.json
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.dll
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\ref\Disemvowel.dll
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\bin\Debug\net5.0\Disemvowel.pdb
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.csprojAssemblyReference.cache
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.AssemblyInfoInputs.cache
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.AssemblyInfo.cs
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.csproj.CoreCompileInputs.cache
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.dll
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\ref\Disemvowel.dll
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.pdb
+D:\Dev\puzzles\c-sharp-puzzles\Disemvowel\obj\Debug\net5.0\Disemvowel.genruntimeconfig.cache

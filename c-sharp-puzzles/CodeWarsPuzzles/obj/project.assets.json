@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\puzzles\\c-sharp-puzzles\\floydsTri\\FloydsTriangle.csproj",
-      "projectName": "FloydsTriangle",
-      "projectPath": "D:\\Dev\\puzzles\\c-sharp-puzzles\\floydsTri\\FloydsTriangle.csproj",
+      "projectUniqueName": "D:\\Dev\\puzzles\\c-sharp-puzzles\\CodeWarsPuzzles\\CodeWarsPuzzles.csproj",
+      "projectName": "CodeWarsPuzzles",
+      "projectPath": "D:\\Dev\\puzzles\\c-sharp-puzzles\\CodeWarsPuzzles\\CodeWarsPuzzles.csproj",
       "packagesPath": "C:\\Users\\jarry\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\puzzles\\c-sharp-puzzles\\floydsTri\\obj\\",
+      "outputPath": "D:\\Dev\\puzzles\\c-sharp-puzzles\\CodeWarsPuzzles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarry\\AppData\\Roaming\\NuGet\\NuGet.Config",
